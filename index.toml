@@ -662,8 +662,16 @@ file = "datapacks/extra/COBBLEVERSE-Johto-DP.zip"
 hash = "11d96caeb2827125724891ce4515ebb1fcc6446fae4712b92cbde41fe458ee77"
 
 [[files]]
+file = "mods/CobbleCuisine-1-1.1.5.jar"
+hash = "9b2678ff7a486a3a39756d8930625753c6d3dc6dc01c122b64a2efd47c22b1bd"
+
+[[files]]
 file = "mods/Cobbreeding-fabric-1.9.0.jar"
 hash = "9faaeb54b72cd832e9d5023fab1fe539df50925f0823d5c5a4b86115a3945921"
+
+[[files]]
+file = "mods/Luckys-Cozyhome-Refurnished-1.1.12.jar"
+hash = "a09808d3a996ec5f04a41ded4f351237a008146412118a5e62d81ac3ac6067e6"
 
 [[files]]
 file = "mods/additional-items-for-cobblemon.pw.toml"
@@ -846,6 +854,10 @@ hash = "525d444d3184718ef1aa766f36ece7c94c7692acd0d93ca2aeed2e041089335b"
 metafile = true
 
 [[files]]
+file = "mods/entityculling-fabric-1.7.4-mc1.21.jar"
+hash = "7e4dc577f1596eda6197c75aab4b01de9be32137f9d172641bd83e98339c11f0"
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "25f49c45a10f246b84980951cff79f27507bda06443ea314f7764c46cc2ee0a6"
 metafile = true
@@ -978,6 +990,10 @@ hash = "09bf3756fda17ce803b3d8f15080b60f7e8828c9dc6aab594d645ca976abd06d"
 metafile = true
 
 [[files]]
+file = "mods/mobfilter-0.11.2+1.21.1.jar"
+hash = "a22c6f7098296630ace59d9b10f5c83d1ac66cce5d48165269b4e5d24584dbf7"
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "51ef5f48423cf719d2a4e1111aae2a224f1661de5c706fdfa2f136e07dc655bc"
 metafile = true
@@ -1035,6 +1051,10 @@ metafile = true
 file = "mods/not-enough-crashes.pw.toml"
 hash = "3407681e2654819ffcadf310281938ca92660ebced48252fddce4568202f9039"
 metafile = true
+
+[[files]]
+file = "mods/notenoughanimations-fabric-1.9.3-mc1.21.jar"
+hash = "513ba3a8b40f621c9d8ed4646e8e3d6c7e6f62a6ca93a577be6f8efffe7a5a5d"
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
