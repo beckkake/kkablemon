@@ -3,11 +3,6 @@ filename = "mobfilter-0.11.2+1.21.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "13339370fdd0f8425c47583efbd32972e634d2fe"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 6048170
-project-id = 569765
+url = "https://beckkake.github.io/kkablemon/mods/mobfilter-0.11.2+1.21.1.jar"
+hash-format = "sha256"
+hash = "a22c6f7098296630ace59d9b10f5c83d1ac66cce5d48165269b4e5d24584dbf7"

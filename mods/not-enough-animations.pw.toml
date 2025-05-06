@@ -1,13 +1,8 @@
 name = "Not Enough Animations"
 filename = "notenoughanimations-fabric-1.9.3-mc1.21.jar"
-side = "both"
+side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "13aaea8a944e1f8df37951933e5b52df9a46d274"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 6356215
-project-id = 433760
+url = "https://beckkake.github.io/kkablemon/mods/notenoughanimations-fabric-1.9.3-mc1.21.jar"
+hash-format = "sha256"
+hash = "513ba3a8b40f621c9d8ed4646e8e3d6c7e6f62a6ca93a577be6f8efffe7a5a5d"

@@ -1,13 +1,8 @@
 name = "Entity Culling Fabric/Forge"
 filename = "entityculling-fabric-1.7.4-mc1.21.jar"
-side = "both"
+side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "c080d794ff1e58e09a4d742a9c47d95950c67e90"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 6355872
-project-id = 448233
+url = "https://beckkake.github.io/kkablemon/mods/entityculling-fabric-1.7.4-mc1.21.jar"
+hash-format = "sha256"
+hash = "7e4dc577f1596eda6197c75aab4b01de9be32137f9d172641bd83e98339c11f0"

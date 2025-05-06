@@ -3,11 +3,6 @@ filename = "CobbleCuisine-1-1.1.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "88b0f50b35421f972512d2e60f3f14ebc6d363de"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 6476336
-project-id = 1254643
+url = "https://beckkake.github.io/kkablemon/mods/CobbleCuisine-1-1.1.5.jar"
+hash-format = "sha256"
+hash = "9b2678ff7a486a3a39756d8930625753c6d3dc6dc01c122b64a2efd47c22b1bd"
