@@ -976,7 +976,7 @@ hash = "e3242c81c464fbd0c55ddeceec899bd83313bf06c420ea3e203b9a303c09ace4"
 
 [[files]]
 file = "mods/luckys-cozyhome-refurnished.pw.toml"
-hash = "8c9b8b903c32e0921a7932b62bb746dd10927fb7c083d77a8003feb8747bf947"
+hash = "96264fc738e2d37ddb0f90c0415bb2fda2191a64e00474958a607783f59e727a"
 metafile = true
 
 [[files]]
@@ -1347,10 +1347,6 @@ metafile = true
 file = "resourcepacks/rct-trainer-textures-plus.pw.toml"
 hash = "a4f43536f0fef6b29a927913663b7a70c45dff209babf0b3b92ec5e37c310aee"
 metafile = true
-
-[[files]]
-file = "shaderpacks/Shaders - BECK APPROVED.txt"
-hash = "1ba56ae278942d51c58fa68874ae13fb76a5f8f81438ea10c6a229f721e184c6"
 
 [[files]]
 file = "shaderpacks/Shaders - HIGH QUALITY.txt"
