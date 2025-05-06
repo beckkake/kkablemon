@@ -2179,14 +2179,6 @@ hash = "a4f43536f0fef6b29a927913663b7a70c45dff209babf0b3b92ec5e37c310aee"
 metafile = true
 
 [[files]]
-file = "shaderpacks/Shaders - BECK APPROVED.txt"
-hash = "59a9756b468b580bbf6440c32fd5ccac33262f359ee72217965fe0afbce91e9c"
-
-[[files]]
-file = "shaderpacks/Shaders - BECK APPROVED.zip"
-hash = "20897248a5fe91b33bf7fd4b75959c30aa2003df195297979a410ee37d3bb62f"
-
-[[files]]
 file = "shaderpacks/Shaders - HIGH QUALITY.txt"
 hash = "5da9aae94071e4e7f05c2b33512ba63f0116994ebf58550b8b58c21fc709f919"
 
