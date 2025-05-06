@@ -772,7 +772,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-ui-tweaks.pw.toml"
-hash = "81c94529e284898ae1430df7dc8eef60eb7961acb9c85c62ac5c2ab94f83a2f5"
+hash = "39e1d24668411176f546b44e0791d7257ccf69012a8901e1bd65fd27d4d94a2e"
 metafile = true
 
 [[files]]
@@ -1303,7 +1303,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/pokemans.pw.toml"
-hash = "9bd562ac0c3cb7094598e7b612337e6da4bfc2e2e8508c220e46bae803c56f54"
+hash = "c83c2412c3cb3b1e5ee20db7df5a487079fdc07df80f7fd8b63bd34cfc70eaed"
 metafile = true
 
 [[files]]
