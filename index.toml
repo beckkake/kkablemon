@@ -346,10 +346,6 @@ file = "config/fancymenu/user_variables.db"
 hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
-file = "config/ferritecore.mixin.properties"
-hash = "a2091a291309db8920c8a80e913ed31c24c29687d8cd25ac18076ad85a90ddb8"
-
-[[files]]
 file = "config/fightorflight.json5"
 hash = "f36deac85ece28248d9eac4b2b7d7f07668dcfe1a8b5b0d6e82f48d985e2d125"
 
@@ -882,6 +878,10 @@ metafile = true
 file = "mods/ferritecore-fabric.pw.toml"
 hash = "1bcebf42f650151bf068b968e2b27b05c4b278bb9a31f2c0b64c4a462d3ff787"
 metafile = true
+
+[[files]]
+file = "mods/ferritecore.mixin.properties"
+hash = "a2091a291309db8920c8a80e913ed31c24c29687d8cd25ac18076ad85a90ddb8"
 
 [[files]]
 file = "mods/forge-config-api-port-fabric.pw.toml"
