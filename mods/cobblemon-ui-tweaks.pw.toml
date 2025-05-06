@@ -3,11 +3,6 @@ filename = "cobblemon-ui-tweaks-1.0.6.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "07a597c05735747676f5ed68908421ee35e4016f"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 5539317
-project-id = 1060188
+url = "https://beckkake.github.io/kkablemon/mods/cobblemon-ui-tweaks-1.0.7.jar"
+hash-format = "sha256"
+hash = "ed107e2486b1e9c0f9fbb4f172f9213faf0b65dcd9320a856391f1d8917626d2"
