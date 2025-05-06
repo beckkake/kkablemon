@@ -1,13 +1,8 @@
 name = "Lucky's Cozy Home: Refurnished!"
-filename = "Luckys-Cozyhome-Refurnished-1.1.12.jar"
+filename = "Luckys-Cozyhome-Refurnished-1.1.14.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "513f34fe7b7977fb3e22892bd3268e9b43ae7175"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 6453896
-project-id = 825733
+url = "https://beckkake.github.io/kkablemon/mods/Luckys-Cozyhome-Refurnished-1.1.12.jar"
+hash-format = "sha256"
+hash = "a09808d3a996ec5f04a41ded4f351237a008146412118a5e62d81ac3ac6067e6"

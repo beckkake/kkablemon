@@ -805,7 +805,7 @@ metafile = true
 
 [[files]]
 file = "mods/cozy-home.pw.toml"
-hash = "4a5f3d5c14f4cc069311b812624815e6cc8a80af555ba39e6852d996734372d3"
+hash = "7f8bf14afd38185ad2a51d23a1910d13fe024692db3478cd6601bdc5b9ef3719"
 metafile = true
 
 [[files]]
@@ -973,11 +973,6 @@ metafile = true
 [[files]]
 file = "mods/loadsupport-1.1.0-fabric-1.21.1.jar"
 hash = "e3242c81c464fbd0c55ddeceec899bd83313bf06c420ea3e203b9a303c09ace4"
-
-[[files]]
-file = "mods/luckys-cozyhome-refurnished.pw.toml"
-hash = "96264fc738e2d37ddb0f90c0415bb2fda2191a64e00474958a607783f59e727a"
-metafile = true
 
 [[files]]
 file = "mods/melody.pw.toml"
