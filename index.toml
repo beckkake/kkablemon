@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "LICENSES.md"
-hash = "4e9f1c908e2e17641f47fb9480597ea0785742a66bfcebb931274c003085f5d0"
+hash = "a0e4a16336344e1985e5f9f38d2fe4102c721f0c7a66dcc8d6ae865b32440a7a"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -1643,7 +1643,7 @@ hash = "ed107e2486b1e9c0f9fbb4f172f9213faf0b65dcd9320a856391f1d8917626d2"
 
 [[files]]
 file = "mods/cobblemon-ui-tweaks.pw.toml"
-hash = "7a192a704f8ed4d2218f7c1d72f01ad1583d93db0d677db75df6c291d475a98e"
+hash = "81c94529e284898ae1430df7dc8eef60eb7961acb9c85c62ac5c2ab94f83a2f5"
 metafile = true
 
 [[files]]
