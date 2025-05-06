@@ -3,11 +3,6 @@ filename = "RCT Trainers+ [1.6] v2.0.zip"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "a2c86c3fefd503d5789b765483d6cfb78e7e5795"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 6442443
-project-id = 1118199
+url = "https://beckkake.github.io/kkablemon/resourcepacks/RCT Trainers%2B [1.6] v2.0.zip"
+hash-format = "sha256"
+hash = "8d628bbc31e9d644c49d8bce09e135d053f4e7b4eb1b470998a4e547d81c163f"

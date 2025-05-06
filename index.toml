@@ -1280,12 +1280,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/cobblemon-classic-grass-pack.pw.toml"
-hash = "aaa1d10baed5dbeef2ec9203c37c08e0359337913c5d8cdf2b7b5a096f02a14d"
+hash = "783abcb047585de56835109cf5425d354995679283f3a012ac9c5b492630f734"
 metafile = true
 
 [[files]]
 file = "resourcepacks/cobblemon-interface-modded.pw.toml"
-hash = "e9cdf18d38f3e865d731a4b290f8f873a3e07aa00cecb85c8b31794c479e37fa"
+hash = "5ef99ab64ca9c0bf8fd8c6e84e7f0b7f940a7429ee679e502a1334eb103d3c53"
 metafile = true
 
 [[files]]
@@ -1345,7 +1345,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/rct-trainer-textures-plus.pw.toml"
-hash = "a4f43536f0fef6b29a927913663b7a70c45dff209babf0b3b92ec5e37c310aee"
+hash = "33cfc2fc7fb4b9db37ae882e90039755588ff299611be54d9ea32a54b0f5414d"
 metafile = true
 
 [[files]]
