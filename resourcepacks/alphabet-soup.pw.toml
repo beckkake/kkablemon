@@ -1,0 +1,13 @@
+name = "Alphabet Soup (Cobblemon)"
+filename = "AlphabetSoup-v2.2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d4b2c6db790d963ee5912f28798747fceb6c4a60"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6071676
+project-id = 901630

@@ -1,0 +1,13 @@
+name = "Radical Cobblemon Trainers"
+filename = "rctmod-fabric-1.21.1-0.14.3-beta.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fac84a8f98bbebdee3e46c4aabebfc6b5774622d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6367615
+project-id = 1009534

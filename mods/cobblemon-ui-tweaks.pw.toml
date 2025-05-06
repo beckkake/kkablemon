@@ -1,0 +1,16 @@
+name = "Cobblemon UI Tweaks"
+filename = "cobblemon-ui-tweaks-1.0.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "07a597c05735747676f5ed68908421ee35e4016f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5539317
+project-id = 1060188
+
+[option]
+optional = true

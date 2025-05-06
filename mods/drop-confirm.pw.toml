@@ -1,0 +1,13 @@
+name = "DropConfirm"
+filename = "drop_confirm-4.0.0-1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8da28147b56bd6f5ebadb6e678576a6b90052a76"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6382137
+project-id = 881314

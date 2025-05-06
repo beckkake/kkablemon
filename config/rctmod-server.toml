@@ -1,0 +1,114 @@
+[Spawning]
+	#━━━━━━━━━━
+	#A global factor that determines if a spawn attempt for a trainer is made.
+	#Range: 0.0 ~ 1.0
+	globalSpawnChance = 0.55
+	#━━━━━━━━━━
+	#The chance for a trainer to spawn will shrink towards this value based of how many
+	#trainers are already spawned in for a player. For example if a player has 0 trainers
+	#spawned for them the chance will be as configured by globalSpawnChance if a player
+	#has barely filled up their spawn cap (maxTrainersPerPlayer), i.e. only one more free
+	#spot is left, the chance for the last trainer will be as configured by globalSpawnChanceMinimum.
+	#Set to any value equal to or above globalSpawnChance to disable (e.g. 1.0).
+	#Range: 0.0 ~ 1.0
+	globalSpawnChanceMinimum = 0.15
+	#━━━━━━━━━━
+	#The interval in ticks at which a spawn attempt is made per player.
+	#Range: 1 ~ 2147483646
+	spawnIntervalTicks = 600
+	#━━━━━━━━━━
+	#The spawn interval ticks will grow towards this value based of how many trainers are already
+	#spawned in for a player. For example if a player has 0 trainers spawned for them the spawn
+	#interval ticks will be as configured by spawnIntervalTicks, if a player has barely filled up their
+	#spawn cap (maxTrainersPerPlayer), i.e. only one more free spot is left, the spawn interval for the
+	#last trainer will be as configured by spawnIntervalTicksMaximum. Set to any value equal to or below
+	#spawnIntervalTicks to disable (e.g. 0).
+	#Range: 0 ~ 2147483646
+	spawnIntervalTicksMaximum = 2400
+	#━━━━━━━━━━
+	#The max horizontal distance a trainer can spawn from players.
+	#Range: 1 ~ 2147483646
+	maxHorizontalDistanceToPlayers = 70
+	#━━━━━━━━━━
+	#The min horizontal distance a trainer can spawn from players.
+	#Range: 1 ~ 2147483646
+	minHorizontalDistanceToPlayers = 25
+	#━━━━━━━━━━
+	#The max vertical distance a trainer can spawn from players.
+	#Range: 1 ~ 2147483646
+	maxVerticalDistanceToPlayers = 30
+	#━━━━━━━━━━
+	#Spawn cap of trainers per player.
+	#Range: 0 ~ 2147483646
+	maxTrainersPerPlayer = 6
+	#━━━━━━━━━━
+	#Total trainer spawn cap. This value may be increased for servers with higher expected
+	#player numbers (> 4), for example (|players| + 1)*maxTrainersPerPlayer.
+	#Range: 0 ~ 2147483646
+	maxTrainersTotal = 60
+	#━━━━━━━━━━
+	#The maximum level difference between the strongest pokemon in the team of a player and the strongest
+	#pokemon in the team of a trainer to spawn for that player. The spawn weight decreases with a higher
+	#level difference. Trainers with pokemon above the level cap of a player are excluded.
+	#Range: 0 ~ 100
+	maxLevelDiff = 10
+	#━━━━━━━━━━
+	#A comma separated list of dimensions (e.g. ["multiworld:spawn", "minecraft:the_end"]).
+	#In these dimensions trainers will never spawn.
+	dimensionBlacklist = []
+	#━━━━━━━━━━
+	#A comma separated list of dimensions (e.g. ["multiworld:spawn" , "minecraft:the_end"]).
+	#Trainers may only spawn in these dimensions (unless the list is empty).
+	dimensionWhitelist = []
+	#━━━━━━━━━━
+	#A comma separated list of biome tags (e.g. ["is_overworld", "is_forest"]).
+	#A biome may not have any of the given tags attached to it, for a trainer to spawn in that biome.
+	#Trainers may also have additional tags defined by a data pack.
+	biomeTagBlacklist = []
+	#━━━━━━━━━━
+	#A comma separated list of biome tags (e.g. ["is_overworld", "is_forest"]).
+	#A biome must have atleast one of the given tags attached to it, for a trainer to spawn in that
+	#biome (unless the list is empty). Trainers may also have additional tags defined by a data pack.
+	biomeTagWhitelist = []
+	#━━━━━━━━━━
+	#A list of items that can be used to configure a trainer spawner to spawn specific
+	#trainers. Every entry must define an item followed by a space seperated list of
+	#trainer ids (of which one will be randomly chosen to spawn).
+	trainerSpawnerItems = ["cobblemon:hard_stone kanto_brock", "cobblemon:mystic_water kanto_misty", "cobblemon:magnet kanto_ltsurge", "cobblemon:miracle_seed kanto_erika", "cobblemon:poison_barb kanto_koga", "cobblemon:twisted_spoon kanto_sabrina", "cobblemon:charcoal_stick kanto_blaine", "cobblemon:destiny_knot kanto_giovanni", "cobblemon:never_melt_ice kanto_league_lorelei", "cobblemon:focus_band kanto_league_bruno", "cobblemon:cleanse_tag kanto_league_agatha", "cobblemon:dragon_fang kanto_league_lance", "cobblemon:life_orb kanto_champion_blue", "cobblemon:smoke_ball team_rocket_member_01 team_rocket_member_02 team_rocket_member_03 team_rocket_member_04", "cobblemon:toxic_orb team_rocket_agent_01 team_rocket_agent_02 team_rocket_agent_03 team_rocket_agent_04", "cobblemon:black_tumblestone_cluster team_rocket_scientist_01 team_rocket_scientist_02 team_rocket_scientist_03 team_rocket_scientist_04", "minecraft:spyglass team_rocket_spy_01 team_rocket_spy_02 team_rocket_spy_03 team_rocket_spy_04", "cobblemon:dusk_stone team_rocket_officer_01 team_rocket_officer_02 team_rocket_officer_03 team_rocket_officer_04", "cobblemon:eject_pack team_rocket_scout_01 team_rocket_scout_02 team_rocket_scout_03 team_rocket_scout_04", "minecraft:ominous_trial_key team_rocket_admin_archer", "cobblemon:swift_feather johto_valerio", "cobblemon:energy_root johto_raffaello", "cobblemon:silk_scarf johto_chiara", "cobblemon:metronome johto_angelo", "cobblemon:punching_glove johto_furio", "cobblemon:metal_coat johto_jasmine", "cobblemon:icy_rock johto_alfredo", "cobblemon:dragon_scale johto_sandra", "cobblemon:power_lens johto_league_pino", "cobblemon:loaded_dice johto_league_koga", "cobblemon:muscle_band johto_league_bruno", "cobblemon:razor_claw johto_league_karen", "cobblemon:deep_sea_tooth johto_champion_lance"]
+	#━━━━━━━━━━
+	#If enabled trainers will only spawn naturally around players that have a trainer card
+	#in their inventory (does not affect trainer spawners).
+	spawningRequiresTrainerCard = true
+	#━━━━━━━━━━
+	#If enabled a single trainer association npc may spawn naturally nearby players that carry a trainer
+	#card and have either not started a series or completed their current series. One may also spawn nearby
+	#any player in proximity to a village (at least 3 occupied beds and a village center). These can
+	#spawn everywhere but will respect the 'dimensionBlacklist' and 'dimensionWhitelist' settings.
+	spawnTrainerAssociation = true
+
+[Players]
+	#━━━━━━━━━━
+	#Initial level cap of players. Pokemon will not gain any experience if at or above the level cap.
+	#Range: 1 ~ 100
+	initialLevelCap = 20
+	#━━━━━━━━━━
+	#The required level cap for trainers is based of the strongest pokemon in their team.
+	#This value will be added to the derived level cap. Example: A trainer with a Pikachu at level 50
+	#has a level cap requirement of 50. If the additiveLevelCapRequirement is -10 the required level cap
+	#of that trainer becomes 40, if it is 10 the level cap requirement becomes 60.
+	additiveLevelCapRequirement = 5
+	#━━━━━━━━━━
+	#If enabled the level cap of a players will not prevent their pokemon from gaining experience and leveling up.
+	#Trainers will still refuse to battle players that carry pokemon above their level cap!
+	allowOverLeveling = false
+	#━━━━━━━━━━
+	#Can an empty series be considered completed or uncompletable? You tell me. If enabled an empty series
+	#will always be considered completed hence rewarding players immediately with a level cap of 100 otherwise
+	#the level cap of players will be as configured by initialLevelCap (and additiveLevelCapRequirement).
+	#Note that players will start with an empty series by default.
+	considerEmptySeriesCompleted = false
+
+[Debug]
+	#━━━━━━━━━━
+	#If enabled additional information are printed to the log whenever a trainer spawns or despawns.
+	logSpawning = false

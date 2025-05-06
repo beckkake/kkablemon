@@ -1,0 +1,13 @@
+name = "Cobblemon Fight or Flight Reborn"
+filename = "fightorflight-fabric-0.7.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9809562eb1c102e23a68925e401c51f3d2840153"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6439784
+project-id = 1168140

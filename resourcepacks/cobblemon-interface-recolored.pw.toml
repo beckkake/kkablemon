@@ -1,0 +1,13 @@
+name = "Cobblemon Interface: Recolored"
+filename = "Cobblemon Interface Recolored v1.0.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "80972fcbd700016b746247074d482b778a798ebd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6397642
+project-id = 1160668

@@ -1,0 +1,13 @@
+name = "Cobblemon: Ride On!"
+filename = "cobbleride-fabric-0.2.5+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4762b4bac08b3cb7a59cbaa66e973869de024f40"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6472275
+project-id = 1169803

@@ -1,0 +1,13 @@
+name = "BindCommands"
+filename = "bind-cmd-1.5.1-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "448f67c0c30392d399c921724aa4cb491500f918"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5610854
+project-id = 842996

@@ -1,0 +1,13 @@
+name = "Better Beds"
+filename = "betterbeds-fabric-1.4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "18bc5c4f40ff6e47d65526a59244c9ea57b83e3f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5437848
+project-id = 443782

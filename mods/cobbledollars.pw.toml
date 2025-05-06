@@ -1,0 +1,13 @@
+name = "CobbleDollars [Cobblemon Addon]"
+filename = "CobbleDollars-fabric-2.0.0+Beta-3+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b9f1af9a36c5c557bf278b804f9dc3663ddb2cb1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6253222
+project-id = 859232

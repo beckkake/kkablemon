@@ -1,0 +1,13 @@
+name = "[Cobblemon] BadgeBox"
+filename = "badgebox-fabric-1.2.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7fdee04fc2643e5a73a7231f6848310aabc91a1e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6066460
+project-id = 1034908

@@ -1,0 +1,16 @@
+name = "Pokemans"
+filename = "pokemans_v14_creation.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "36ded14d72d25e1e55dfd4e78d6982d84d94ba0e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6321242
+project-id = 1085471
+
+[option]
+optional = true

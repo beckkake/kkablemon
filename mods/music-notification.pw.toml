@@ -1,0 +1,13 @@
+name = "Music Notification"
+filename = "MusicNotification-fabric-mc1.21-2.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8c521838a2bb68b7378a0686a259af00034ef27c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5617079
+project-id = 817206

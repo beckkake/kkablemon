@@ -1,0 +1,13 @@
+name = "AdvancementDisable"
+filename = "advancementdisable-fabric-1.0.1+1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8bff07c3254e04ed4926051684f3af92151c650f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5510149
+project-id = 1055905

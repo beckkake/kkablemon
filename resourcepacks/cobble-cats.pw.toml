@@ -1,0 +1,13 @@
+name = "CobbleCats [cobblemon]"
+filename = "cobble_cats.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cdfb61dcb8d6866d0be1d77be77297b85c2f0a42"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6141005
+project-id = 939603

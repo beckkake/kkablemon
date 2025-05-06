@@ -1,0 +1,13 @@
+name = "Cobblemon: Mega Showdown"
+filename = "Cobblemon_MegaShowdown-9.3.8-release-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "08bfa2f48d20ce251b36dcbce8180c20a7808ef4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6476682
+project-id = 1189523

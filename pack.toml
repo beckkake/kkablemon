@@ -1,0 +1,13 @@
+name = "kkablemon"
+author = "beckkake"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ffcd867323feb2c4a609043324a51c882164b1cd0dbe7be34a7a0065d9fb82e3"
+
+[versions]
+fabric = "0.16.14"
+minecraft = "1.21.1"
