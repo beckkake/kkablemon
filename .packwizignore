@@ -6,6 +6,3 @@
 
 # Exclude header
 /header.png
-
-# Exclude journeymap from export
-/journeymap
