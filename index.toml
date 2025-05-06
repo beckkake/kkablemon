@@ -1697,6 +1697,11 @@ hash = "cec1f901aa1119990e2a67da0c92aad9fc3988311850336d12da2e7cc6f0c5d2"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "4d59d6316cd914eaff7c0df2b416dc512022f9378741a88d813da82628e14b6d"
+metafile = true
+
+[[files]]
 file = "mods/dynamiclights-reforged.pw.toml"
 hash = "1659cc97cceaa896f19efba42b2dd2b70797743f61da240e07d010f354aa4fef"
 metafile = true
@@ -1803,6 +1808,11 @@ metafile = true
 [[files]]
 file = "mods/konkrete-fabric.pw.toml"
 hash = "8121f1621355bb4ff8031ebc91f3824a2ae387a3b30d3feb25c84d0b480206f5"
+metafile = true
+
+[[files]]
+file = "mods/language-reload.pw.toml"
+hash = "2bc8b07ea5cdc6154bd985cdbfed7df614a030d999254c996e696fd88046f0ea"
 metafile = true
 
 [[files]]
