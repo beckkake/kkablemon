@@ -785,6 +785,11 @@ hash = "3593a55533ec4e8783a733d33ca31831310cb779b829e4705056cf0241e6a16b"
 metafile = true
 
 [[files]]
+file = "mods/comforts.pw.toml"
+hash = "bde2f9dc3fe59800b767c0623e87febe004b9a57374013ba218a74b9e005e36b"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "b50378ddd8de5877ce51ded7616ebbf3ad0a5e18af8125a473411fbabc6c37cd"
 metafile = true
