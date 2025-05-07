@@ -724,6 +724,11 @@ hash = "61ebfb9e9d769ce298386b69a07fa801ba2b43328a02aa729f1f7cc00b52d559"
 metafile = true
 
 [[files]]
+file = "mods/cicada.pw.toml"
+hash = "eb995fc30ad291a46e2b22bee640b9a315c44d5a76ce6fab2e03cfbfb8b8c429"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "9e21cc4fae5ed88e306b4601c5e1533f883aa8b60c6e36dedeec82718be87059"
 metafile = true
@@ -793,6 +798,11 @@ hash = "3593a55533ec4e8783a733d33ca31831310cb779b829e4705056cf0241e6a16b"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "d3c143c5b518d2a57888cf1916e06bdb0f50e83b8341bf65885cdc769886647f"
+metafile = true
+
+[[files]]
 file = "mods/comforts.pw.toml"
 hash = "bde2f9dc3fe59800b767c0623e87febe004b9a57374013ba218a74b9e005e36b"
 metafile = true
@@ -825,6 +835,11 @@ metafile = true
 [[files]]
 file = "mods/default-options-fabric.pw.toml"
 hash = "20253d2fa7ccbe6b4a51b202400e740e9a514e02ffb985c47c638d7145ee507c"
+metafile = true
+
+[[files]]
+file = "mods/double-doors.pw.toml"
+hash = "ab58d529b6dc1d585087d359147edb57507cf1b8f0fe78a0e4c88117f963d014"
 metafile = true
 
 [[files]]
@@ -873,7 +888,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "e3ed8904a184d84b134e20f19a3790152867dafccc1d029c8c8a93051825cd86"
+hash = "71c1a36f3a6dc674f1b89e3d254a8e67d2a831b70f66c64e37cc998c419ad977"
 metafile = true
 
 [[files]]
@@ -1132,6 +1147,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "795a73207734f08e5cece4da342c509d2210787ea8f0df9ea7ee440719a53cf3"
+metafile = true
+
+[[files]]
+file = "mods/show-me-your-skin.pw.toml"
+hash = "b0af06e4699a4e17ae158d3a50a21d13dcd1f759f1ec2373e7d147f4a3a68239"
 metafile = true
 
 [[files]]
