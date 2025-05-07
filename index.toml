@@ -779,12 +779,8 @@ hash = "754354bf0e5af43d9c6ff4473eab2f016e0ddb3ed6d79495ffe70fe96e48ef14"
 metafile = true
 
 [[files]]
-file = "mods/cobblemon-ui-tweaks-1.0.7.jar"
-hash = "ed107e2486b1e9c0f9fbb4f172f9213faf0b65dcd9320a856391f1d8917626d2"
-
-[[files]]
 file = "mods/cobblemon-ui-tweaks.pw.toml"
-hash = "95a0790bfbf6779bed41530dc37ea7604f1c3a7ea066b372c36f74a8e5f5eb10"
+hash = "4d08fa48ec55d9238c9144f82d812aae1b8bd1e66dc16a0374ec8df94d4b5eb3"
 metafile = true
 
 [[files]]
