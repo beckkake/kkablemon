@@ -5,11 +5,6 @@ file = "LICENSES.md"
 hash = "a0e4a16336344e1985e5f9f38d2fe4102c721f0c7a66dcc8d6ae865b32440a7a"
 
 [[files]]
-file = "complementary-reimagined.pw.toml"
-hash = "5f4c3fec0af90616b6647d7881599bf4675df2791fb319eff2fb792bedc49fa9"
-metafile = true
-
-[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
